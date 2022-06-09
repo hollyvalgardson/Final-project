@@ -1,0 +1,1 @@
+For this project I took an excel spreadsheet of data I collected from my own research and used the python code that I used for my research. At the end of the code, I made a graph with all the data points from the outputed data. For this project, I manipulated the graph by adding a title, switching the axes and setting a range. 
